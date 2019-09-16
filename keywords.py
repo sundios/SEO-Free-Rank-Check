@@ -5,24 +5,24 @@
 # - URL of your website
 # Delay between keywords so that google doesnt ban your ip addres. Ideally you will wait around 10 second or more per keyword.
 
-url ='https://www.uselessthingstobuy.com'
+url ='ADD URL HERE'
 
-keyword1 = 'useless things to buy';
+keyword1 = 'ADD KEYWORD HERE';
 
-keyword2 = 'Giagnt Toblerone';
+keyword2 = 'ADD KEYWORD HERE';
 
-keyword3 = 'unicorn meat';
+keyword3 = 'ADD KEYWORD HERE';
 
-keyword4 = 'nothing for the person who has everything';
+keyword4 = 'ADD KEYWORD HERE';
 
-keyword5 = 'tiny dick';
+keyword5 = 'ADD KEYWORD HERE';
 
-keyword6 = 'screaming goat toy';
+keyword6 = 'ADD KEYWORD HERE';
 
-keyword7 = 'pizza blanket';
+keyword7 = 'ADD KEYWORD HERE';
 
-keyword8 = 'finger hands';
+keyword8 = 'ADD KEYWORD HERE';
 
-keyword9 = 'cheesus christ';
+keyword9 = 'ADD KEYWORD HERE';
 
-keyword10 = 'useless things';
+keyword10 = 'ADD KEYWORD HERE';
