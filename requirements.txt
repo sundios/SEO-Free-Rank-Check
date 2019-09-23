@@ -1,0 +1,2 @@
+robobrowser==0.5.3
+boto3==1.9.233
