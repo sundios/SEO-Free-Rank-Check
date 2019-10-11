@@ -13,3 +13,6 @@ exports.handler = (event, context, callback) => {
   con.query(sql, function (err, result) {
     if (err) throw err;
     callback(null, result)
+  });
+};
+
